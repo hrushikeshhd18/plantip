@@ -14,12 +14,11 @@ import android.os.Handler;
 import android.view.WindowManager;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
-import android.widget.Adapter;
 import android.widget.ImageView;
 
 import com.airbnb.lottie.LottieAnimationView;
-import com.hdgroup.plantip.MainActivity;
 import com.hdgroup.plantip.R;
+import com.hdgroup.plantip.ui.auth.AuthActivity;
 
 public class Splashscreen extends AppCompatActivity {
 

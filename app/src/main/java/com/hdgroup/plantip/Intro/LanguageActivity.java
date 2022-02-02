@@ -12,10 +12,11 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.hdgroup.plantip.Activity.HomeActivity;
 import com.hdgroup.plantip.Helper.MyContextWrapper;
 import com.hdgroup.plantip.MainActivity;
 import com.hdgroup.plantip.R;
-
+import com.hdgroup.plantip.ui.auth.AuthActivity;
 
 
 public class LanguageActivity extends AppCompatActivity {

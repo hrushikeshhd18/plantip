@@ -10,6 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Plantip">
         <activity
+            android:name=".ui.chat.ChatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.auth.AuthActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.HomeActivity"
+            android:exported="false" />
+        <activity android:name=".MainActivity" />
+        <activity
             android:name=".Intro.Splashscreen"
             android:exported="true"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
@@ -19,11 +29,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".MainActivity"
-            android:exported="false"/>
-        <activity
-            android:name=".Intro.LanguageActivity" />
+        <activity android:name=".Intro.LanguageActivity" />
     </application>
 
 </manifest>

@@ -3,12 +3,28 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable-v24/circle_background.xml" value="0.2796296296296296" />
+        <entry key="app/src/main/res/drawable-v24/edit_text_background.xml" value="0.2796296296296296" />
+        <entry key="app/src/main/res/drawable-v24/ic_camera.xml" value="0.2796296296296296" />
+        <entry key="app/src/main/res/drawable-v24/spinner_background.xml" value="0.10141737570690573" />
+        <entry key="app/src/main/res/drawable/bg_half_rounded.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/drawable/ic_arrow_down.xml" value="0.13518518518518519" />
+        <entry key="app/src/main/res/drawable/ic_favorite.xml" value="0.13541666666666666" />
+        <entry key="app/src/main/res/drawable/ic_flower.xml" value="0.13541666666666666" />
+        <entry key="app/src/main/res/drawable/ic_profile.xml" value="0.13541666666666666" />
+        <entry key="app/src/main/res/layout/activity_auth.xml" value="0.11141304347826086" />
+        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.14387031408308004" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.14447463768115942" />
         <entry key="app/src/main/res/layout/activity_language.xml" value="0.1503623188405797" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1503623188405797" />
         <entry key="app/src/main/res/layout/activity_splashscreen.xml" value="0.1503623188405797" />
+        <entry key="app/src/main/res/layout/fragment_enter_phone.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_on_boarding1.xml" value="0.11979166666666667" />
         <entry key="app/src/main/res/layout/fragment_on_boarding2.xml" value="0.11979166666666667" />
         <entry key="app/src/main/res/layout/fragment_on_borading3.xml" value="0.11979166666666667" />
+        <entry key="app/src/main/res/layout/fragment_verify_phone.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/fragmentsetup_profile.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/navigation.xml" value="0.23802083333333332" />
       </map>
     </option>
   </component>
