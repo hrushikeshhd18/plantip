@@ -18,6 +18,13 @@
     <color name="light_blue">#afd7ce</color>
 
 
+    <color name="bg_color">#f3f5f9</color>
+    <color name="darkgrey">#424242</color>
+    <color name="gradientViolet">#8A52E9</color>
+    <color name="gradientLightBlue">#376DF6</color>
+    <color name="white">#ffffff</color>
+
+
     <color name="blue_light">#83C0EF</color>
     <color name="blue_dark">#084573</color>
     <color name="blue">#1C98F7</color>

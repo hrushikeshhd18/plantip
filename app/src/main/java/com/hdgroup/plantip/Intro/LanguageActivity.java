@@ -13,10 +13,9 @@ import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.hdgroup.plantip.Activity.HomeActivity;
+import com.hdgroup.plantip.Activity.SignUpActivity;
 import com.hdgroup.plantip.Helper.MyContextWrapper;
-import com.hdgroup.plantip.MainActivity;
 import com.hdgroup.plantip.R;
-import com.hdgroup.plantip.ui.auth.AuthActivity;
 
 
 public class LanguageActivity extends AppCompatActivity {
@@ -50,7 +49,7 @@ public class LanguageActivity extends AppCompatActivity {
                     changeLang(LanguageActivity.this, "mr");
                 }
                 finish();
-                startActivity(new Intent(LanguageActivity.this, MainActivity.class));
+                startActivity(new Intent(LanguageActivity.this, SignUpActivity.class));
             }
         });
 
@@ -65,7 +64,7 @@ public class LanguageActivity extends AppCompatActivity {
                     changeLang(LanguageActivity.this, "en");
                 }
                 finish();
-                startActivity(new Intent(LanguageActivity.this, MainActivity.class));
+                startActivity(new Intent(LanguageActivity.this, SignUpActivity.class));
             }
         });
     }

@@ -18,7 +18,7 @@ import android.widget.ImageView;
 
 import com.airbnb.lottie.LottieAnimationView;
 import com.hdgroup.plantip.R;
-import com.hdgroup.plantip.ui.auth.AuthActivity;
+
 
 public class Splashscreen extends AppCompatActivity {
 
